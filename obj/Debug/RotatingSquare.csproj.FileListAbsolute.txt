@@ -1,0 +1,11 @@
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.Properties.Resources.resources
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.csproj.GenerateResource.cache
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\RotatingSquare\bin\Debug\RotatingSquare.exe.config
+C:\Users\spark\source\repos\RotatingSquare\bin\Debug\RotatingSquare.exe
+C:\Users\spark\source\repos\RotatingSquare\bin\Debug\RotatingSquare.pdb
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.Form1.resources
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.exe
+C:\Users\spark\source\repos\RotatingSquare\obj\Debug\RotatingSquare.pdb
